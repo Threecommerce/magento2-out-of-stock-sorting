@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5] - 2026-11-19
+
+### Fixed
+- Compatibilità con PHP 8.5: tolta la chiamata a `ReflectionProperty::setAccessible()` nel plugin della ricerca. È
+  deprecata in PHP 8.5 (non serve più da PHP 8.1) e Magento trasforma l'avviso in errore, quindi l'ordinamento si fermava.
+  Nessun cambiamento sulle versioni di PHP precedenti.
+
 ## [1.0.4] - 2026-10-28
 
 ### Fixed
