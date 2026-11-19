@@ -4,7 +4,7 @@ Magento can show out of stock products in categories, but mixes them with the ot
 
 ![Category page with available products first and out of stock products last](images/out-of-stock-sorting-category.png)
 
-**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.4 · Themes: Luma, Hyvä, Breeze
+**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4 – 2.4.9 · Mage-OS 1.x / 3.x · PHP 8.1 – 8.5 · Themes: Luma, Hyvä, Breeze
 **License:** commercial · coming soon
 
 ## Features
